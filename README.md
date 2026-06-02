@@ -12,7 +12,7 @@ A passionate Electronics and Communication Engineering student at VIT Chennai wi
 
 - 🔗 All of my projects are available at **https://github.com/rd1445**
 
-- 💼 I regularly post on **https://www.linkedin.com/in/raghul-deepan-35b798300**
+- 💼 I regularly post on **https://bit.ly/3RJPC31**
 
 - 📫 You can reach me at **sragdep@gmail.com**
 
