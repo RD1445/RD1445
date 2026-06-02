@@ -22,7 +22,7 @@ A passionate Electronics and Communication Engineering student at VIT Chennai wi
 
 <p align="left">
 <a href="https://www.linkedin.com/in/raghul-deepan-35b798300" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
 </a>
 </p>
 
