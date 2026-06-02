@@ -25,8 +25,8 @@ A passionate Electronics and Communication Engineering student at VIT Chennai wi
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
 </a>
 
-<a href="mailto:sragdep@gmail.com" target="_blank">
-<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" height="40" width="50" />
+<a href="mailto:sragdep@gmail.com">
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" height="40" width="50" />
 </a>
 </p>
 
